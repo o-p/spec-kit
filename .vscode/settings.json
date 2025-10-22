@@ -1,0 +1,49 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#FFA000",
+        "editorSuggestWidget.highlightForeground": "#FFA000",
+        "list.activeSelectionForeground": "#FFA000",
+        "list.highlightForeground": "#FFA000",
+        "list.inactiveSelectionForeground": "#FFA000",
+        "pickerGroup.foreground": "#FFA000",
+        "progressBar.background": "#FFA000",
+        "scrollbarSlider.activeBackground": "#FFA00050",
+        "statusBar.background": "#e08e22",
+        "statusBar.debuggingBackground": "#f3c80a",
+        "tab.activeBorder": "#FFA000",
+        "terminal.ansiBlack": "#41444d",
+        "terminal.ansiBlue": "#3476ff",
+        "terminal.ansiBrightBlack": "#8f9aae",
+        "terminal.ansiBrightBlue": "#10b1fe",
+        "terminal.ansiBrightCyan": "#5fb9bc",
+        "terminal.ansiBrightGreen": "#3fc56b",
+        "terminal.ansiBrightMagenta": "#ff78f8",
+        "terminal.ansiBrightRed": "#ff6480",
+        "terminal.ansiBrightWhite": "#ffffff",
+        "terminal.ansiBrightYellow": "#f9c859",
+        "terminal.ansiCyan": "#4483aa",
+        "terminal.ansiGreen": "#25a45c",
+        "terminal.ansiMagenta": "#7a82da",
+        "terminal.ansiRed": "#fc2f52",
+        "terminal.ansiWhite": "#cdd4e0",
+        "terminal.ansiYellow": "#ff936a",
+        "terminal.foreground": "#b9c0cb",
+        "terminal.selectionBackground": "#b9c0ca",
+        "terminalCursor.foreground": "#ffcc00",
+        "textLink.foreground": "#FFA000",
+        "activityBar.background": "#01360D",
+        "titleBar.activeBackground": "#024C12",
+        "titleBar.activeForeground": "#ECFFF0"
+    },
+    "chat.promptFilesRecommendations": {
+        "speckit.constitution": true,
+        "speckit.specify": true,
+        "speckit.plan": true,
+        "speckit.tasks": true,
+        "speckit.implement": true
+    },
+    "chat.tools.terminal.autoApprove": {
+        ".specify/scripts/bash/": true,
+        ".specify/scripts/powershell/": true
+    }
+}
